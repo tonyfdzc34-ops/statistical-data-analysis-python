@@ -1,0 +1,3 @@
+wine_type,rows,missing_cells,rows_with_missing_values,exact_duplicate_rows,rows_with_iqr_feature_flags,quality_min,quality_median,quality_max
+red,1599,0,0,240,405,3,6.0,8
+white,4898,0,0,937,883,3,6.0,9
